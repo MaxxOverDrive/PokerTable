@@ -1,5 +1,9 @@
-.activeCards {
-
+.active_cards {
+  width: 15%;
+  display: inline-block;
+}
+.active_images {
+  width: 75%;
 }
 .table_seat {
   border: 1px solid black;
@@ -18,55 +22,12 @@
   border: 1px solid black;
   background-color: grey;
   width: 80%;
-  height: 100px;
+  height: 12vh;
   position: relative;
-  left: 10%;
+  left: 8%;
+  bottom: 15vh;
+  margin: 3%;
 }
 #cardDealer {
   margin-top: 50px;
-}
-#active_card_1 {
-
-}
-#active_card_2 {
-
-}
-#active_card_3 {
-
-}
-#active_card_4 {
-
-}
-#active_card_5 {
-
-}
-#seat_1 {
-
-}
-#seat_2 {
-
-}
-#seat_3 {
-
-}
-#seat_4 {
-
-}
-#seat_5 {
-
-}
-#seat_6 {
-
-}
-#seat_7 {
-
-}
-#seat_8 {
-
-}
-#seat_9 {
-
-}
-#dealer {
-
 }
